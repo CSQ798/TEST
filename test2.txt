@@ -1,1 +1,2 @@
 It's another test.
+And now I modified it. 
